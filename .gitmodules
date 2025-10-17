@@ -1,0 +1,3 @@
+[submodule "exavision-angular-lib"]
+	path = exavision-angular-lib
+	url = https://github.com/loic-lecuyer/exavision-angular-lib.git
